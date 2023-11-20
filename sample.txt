@@ -1,4 +1,4 @@
-My name is Kush
+My nake is Kush
 we will be understanding github
 <<<<<<< HEAD
 Need to add new folder in github test-git repository
