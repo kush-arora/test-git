@@ -1,2 +1,3 @@
-My nake is Kush
+My name is Kush
 we will be understanding github
+Need to add new folder in github test-git repository
