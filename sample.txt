@@ -1,3 +1,6 @@
 My name is Kush
 we will be understanding github
+<<<<<<< HEAD
 Need to add new folder in github test-git repository
+=======
+>>>>>>> e2a4dcf298012e771d7b7e232894a591685797c0
